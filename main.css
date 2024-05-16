@@ -1,0 +1,30 @@
+/* Estilos para centralizar e alinhar o formulário */
+
+body {
+    background: linear-gradient(to bottom right,  #010101, #5202ff,#6d2df6,#ebdbf8,#ccb6fa );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200vh;
+    margin: 0;
+}
+
+form {
+    padding: 20px;
+    border: 1px solid #231d1d;
+    border-radius: 5px;
+    background-color: #ffffff;
+    width: 450px;
+    
+     
+}
+#musicas_titulo{
+    color: #e3d8fa;
+    margin-bottom: 10%;
+    margin-top: 10px;
+    background-color: #7e44fb;
+    display: flex;
+    padding: 15px;
+    border-radius: 20px;
+    
+}
