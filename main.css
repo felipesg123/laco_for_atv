@@ -1,19 +1,20 @@
 /* Estilos para centralizar e alinhar o formulário */
 
 body {
-    background: linear-gradient(to bottom right,  #010101, #5202ff,#6d2df6,#ebdbf8,#ccb6fa );
+    background: linear-gradient(to bottom right,  #010101, #5202ff,#D936CE,#2F0840,#7224A6 );
     display: flex;
     justify-content: center;
     align-items: center;
     height: 200vh;
     margin: 0;
+
 }
 
 form {
     padding: 20px;
     border: 1px solid #231d1d;
     border-radius: 5px;
-    background-color: #ffffff;
+    background-color: #4d4c4c;
     width: 450px;
     
      
@@ -27,4 +28,14 @@ form {
     padding: 15px;
     border-radius: 20px;
     
+}
+#btn{
+    background-color: #6e6e6e;
+    border-radius:20px;
+    padding: 11px;
+}
+#tipoMusica{
+    background-color: #3b3b3b;
+    color: #9462ff;
+    padding: 11px;
 }
