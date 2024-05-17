@@ -24,7 +24,9 @@
 ##  html 5 ,css3,js,git , 
 
 ### fontes consultadas
-##  material proprio ,materias utilizados gg.gg/exec-avaliativo 
+##  material proprio ,materias utilizados gg.gg/exec-avaliativo,
+
+## links consultados : https://uiverse.io/cssbuttons-io/funny-dog-69, 
 
 ### autores
 ##  felipe da silva
