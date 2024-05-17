@@ -1,7 +1,7 @@
 
 # índice
 
-* [projeto para escrita de readime](#projeto-para-escrita-de-readime)
+* [projeto](#projeto.for)
 * [descrição](destrição)
 * [introdução ](#introdução)
 * [funsionalidade](#funsionalidade)
@@ -9,25 +9,22 @@
 * [fontes consultadas](#fontes_consultadas)
 * [autores](#autores)
 
-### projeto para escrita de readime
-## exemplo
+### projeto.for
 
 ### destrição
-## exemplo
+## Este projeto  utiliza o  for para criar um contador popi up  que fala quantos campos de  musicas foram selecionado com isso e os exibem em formato pop up 
 
 ### introdução 
-## exemplo
+## ele cria 3 campos um Options para  criar as opções de músicas ,cria um campo de descrição , e um que utiliza o js para falar por meio do laço for 
 
 ### funsionalidade
-##  exemplo
+##  Por meio de um laço for ele mostra quantas apisoes de estilos musicais foram selecionadas 
 
 ### tecnologias utilizadas
-##  exemplo
+##  html 5 ,css3,js,git , 
 
 ### fontes consultadas
-##  exemplo
+##  material proprio ,materias utilizados gg.gg/exec-avaliativo 
 
 ### autores
-##  exemplo
-
-* (lembrando que este projeto não é uma regra so use como modelo )
+##  felipe da silva
